@@ -7,9 +7,10 @@ html {
 }
 
 body {
+  font-family: $global-font-family;
   background: $background-color;
   color: $text-color;
-  font-family: $global-font-family;
+  
 }
 
 blockquote,
