@@ -43,7 +43,7 @@ $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
 $base-font-family: "Fira Sans", sans-serif !default;
-/* Other font families */
+$global-font-family: $serif !default;
 $headline-font-family: $base-font-family !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
   monospace !default;
