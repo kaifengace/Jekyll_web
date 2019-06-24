@@ -17,7 +17,7 @@ lang: zh-CN
 title: HKF在Gitee的家
 email: 
 description: "胡凯锋在Gitee的家"
-baseurl: "/jekyll-theme-basically-basic"
+baseurl: hukaif
 url: "https://hukaif.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "胡凯锋"
