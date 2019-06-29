@@ -3,7 +3,7 @@ skin: soft # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
-   skip_links: "跳过链接 Skip links"
+  skip_links: "跳过链接 Skip links"
   skip_primary_nav: "跳到主导航 Skip to primary navigation"
   skip_content: "跳到内容 Skip to content"
   skip_footer: "跳到页尾 Skip to footer"
