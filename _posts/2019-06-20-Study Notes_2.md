@@ -7,7 +7,7 @@ categories:
 
 1.首先去官网下载一个带devkit的rubyinstaller, 下载链接：[官网下载](https://rubyinstaller.org/downloads/)
 
-![]()
+![下载](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/download.png)
 
 2.打开命令行工具输入
 输入“ruby -v”、“gem -v”检测有没有安装成功。
