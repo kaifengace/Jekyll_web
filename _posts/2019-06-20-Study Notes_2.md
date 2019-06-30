@@ -12,10 +12,10 @@ categories:
 2.打开命令行工具输入
 输入“ruby -v”、“gem -v”检测有没有安装成功。
 安装成功应该会正常显示版本。
-![-v](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/%E5%9C%86.png)
+![-v](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/-v.png)
 
 3.在cmd命令行窗口下输入 gem install jekyll，回车：
-![](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/%E5%9C%86.png)
+![](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/gem.png)
 
 4.在cmd命令行窗口下输入 jekyll --version，回车，可看到jekyll的版本则说明jekyll安装成功。
-![version](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/%E5%9C%86.png)
+![version](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/version.png)
