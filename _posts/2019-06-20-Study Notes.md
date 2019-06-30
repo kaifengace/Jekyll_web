@@ -5,8 +5,7 @@ categories:
      - 学习笔记
 ---
 
-### DNS
-一种能进行主机名到IP地址转换的目录服务，这就是域名系统（Domain Name System），DNS协议运行在UDP之上，使用端口53.
+DNS一种能进行主机名到IP地址转换的目录服务，这就是域名系统（Domain Name System），DNS协议运行在UDP之上，使用端口53.
 
 DNS提供的服务有：
 - 主机别名，规范主机名。应用程序可以掉用DNS来获得主机名对应的规范主机名一级主机的IP地址。
