@@ -1,6 +1,6 @@
 ---
 layout: page
-title:在windows 10安装jekyll
+title: 在window10安装jekyll
 categories:
      - 学习笔记
 ---
