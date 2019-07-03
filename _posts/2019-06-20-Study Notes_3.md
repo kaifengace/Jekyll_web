@@ -14,6 +14,7 @@ categories:
 1. 利用在线svg动图编辑器，制作好要的svg图片导出。
 ***
 2、svg图片后，很简单，只需按照格式将代码编辑好，加入变形 旋转或缩放等代码
+
 ![svg](https://gitee.com/hukaif/hukaif/raw/gh-pages/assets/images/svg.png)
 
 3、相应动画代码
