@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-CN
-title: 蒙谨河的个人网站
-email: 1534737803@qq.com
+title: 胡凯锋的个人网站
+email: 1421007146@qq.com
 description: "修改别人网站内容"
-baseurl: "jimgitc"# the optional subpath of your site, e.g. "/blog"
-url: "https://jimgitc.gitee.io"# the base hostname & protocol for your site e.g. "https://jimgitc.gitee.io"
+baseurl: "hukaif"# the optional subpath of your site, e.g. "/blog"
+url: "https://hukaif.gitee.io"# the base hostname & protocol for your site e.g. "https://jimgitc.gitee.io"
 author:
   name:
   twitter:
